@@ -1,2 +1,2 @@
-# 666terminating666-PACK
-Short Malware LMAO (I Modified Pankoza b3ry11ium)
+# 666terminating666
+C++ short skidded GDI trojan by Hugopako
